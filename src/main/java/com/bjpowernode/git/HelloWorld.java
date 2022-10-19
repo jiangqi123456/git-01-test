@@ -12,5 +12,6 @@ public class HelloWorld {
         System.out.println("nimen zaibuzai");
         System.out.println("nimen");
         System.out.println("nimen zaibuzai123");
+        System.out.println("1288");
     }
 }
